@@ -3,7 +3,7 @@ Weitere Informationen zum Projekt finden Sie in unserem Blog:
 1. [Digitale Identitäten: der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten)
 2. [Erste Erkenntnisse aus dem Testbetrieb von BundesIdent](https://digitalservice.bund.de/blog/testbetrieb-von-bundesident)
 3. [BundesIdent läuft nach Pilotphase aus, Er­kennt­nisse fließen in Gesamt­vor­haben ein](https://digitalservice.bund.de/blog/digitale-identitaeten-bundesident-laeuft-nach-pilotphase-aus-erkenntnisse-fliessen-in-gesamtvorhaben-ein)
-## Videodemo vom Anwendungsfall „Grundsteuererklärung für Privateigentum“
+## Anwendungsfall „Grundsteuererklärung für Privateigentum“
 Von November 2022 bis Juni 2023 war BundesIdent in den Online-Dienst „[Grundsteuererklärung für Privateigentum](https://www.grundsteuererklaerung-fuer-privateigentum.de/)“ eingebunden. Die Einbindung von BundesIdent erfolgte über ein ebenfalls von uns entwickeltes [Widget](https://digitalservice.bund.de/glossar#widget). Dieses wurde so ausgestaltet, dass es die einfache Integration in vielfältige Online-Services ermöglicht und perspektivisch ein einheitliches Nutzungserlebnis bei der digitalen Identifikation bietet.
 
 Hier das Videodemo: [Video ergänzen]
