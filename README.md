@@ -14,6 +14,3 @@ Um Erstnutzer:innen besser abzuholen, haben wir einen Vorschlag für Einrichtung
 [Projekt veröffentlichen und Link aktualisieren].
 ## Usability-Test der eID und AusweisApp2
 Die Ergebnisse der 6 Usability-Tests haben wir in diesem PDF zusammengefasst: [Ergebnisbericht Usability-Test eID & AusweisApp2.pdf](https://github.com/jerdesign/useid-documentation/files/11896120/Ergebnisbericht.Usability-Test.eID.AusweisApp2.pdf)
-## Bundes-Styleguide
-[Beschreibung ergänzen]
-https://styleguide.bundesregierung.de/sg-de/basiselemente
