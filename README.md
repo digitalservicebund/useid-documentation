@@ -8,7 +8,7 @@ Von November 2022 bis Juni 2023 war es möglich, sich für den Online-Dienst „
 
 - Videodemo: [Video ergänzen]
 
-- Detaillierter Flow von Grundsteuer in Miro: https://miro.com/app/board/uXjVM62f_o0=/?share_link_id=794381303966
+- Detaillierter Flow von Grundsteuer in Miro: https://miro.com/app/board/uXjVM62f_o0=/
 ## Gerätwechsel mit WebAuthn
 [Beschreibung ergänzen]
 - Videodemo: [Video ergänzen]
