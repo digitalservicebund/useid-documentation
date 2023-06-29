@@ -1,8 +1,9 @@
 # Dokumentation der Projektergebnisse von „Digitale Identitäten“
 Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns von 2021 – 2023 mit dem Thema Digitale Identitäten auseinandergesetzt. Gemeinsam wollten wir die Online-Ausweisfunktion (eID) in den Alltag der Bürger:innen stärker integrieren. Dafür untersuchten wir zunächst die Ursachen und Hürden, die der Nutzung der eID zum damaligen Zeitpunkt im Weg standen. Anhand dieser Erkenntnisse haben wir unter anderem:
 - die BundesIdent App sowie einem entsprechenden Backend und Widget entwickelt
-- den PIN-Brief überarbeitet und so adressatenfreundlicher und verständlicher gestaltet
-- einen Vorschlag für einen Einrichtungsassistenten in der AusweisApp2 erarbeitet:
+- einen [Anwendungsfall pilotiert](#anwendungsfall-grundsteuererkl%C3%A4rung-f%C3%BCr-privateigentum)
+- den [PIN-Brief überarbeitet](#pin-brief-iteration) und so adressatenfreundlicher und verständlicher gestaltet
+- einen Vorschlag für einen [Einrichtungsassistenten in der AusweisApp2](#einrichtungsassistent-in-der-ausweisapp2) erarbeitet:
 - einen [Usability-Test der eID und AusweisApp2](#usability-test-der-eid-und-ausweisapp2) durchgeführt
 
 Weitere Informationen zum Projekt finden Sie in unseren Blogposts: [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten), [Erste Erkenntnisse aus dem Testbetrieb von BundesIdent](https://digitalservice.bund.de/blog/testbetrieb-von-bundesident) und [BundesIdent läuft nach Pilotphase aus, Er­kennt­nisse fließen in Gesamt­vor­haben ein](https://digitalservice.bund.de/blog/digitale-identitaeten-bundesident-laeuft-nach-pilotphase-aus-erkenntnisse-fliessen-in-gesamtvorhaben-ein).
