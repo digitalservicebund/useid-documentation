@@ -8,7 +8,7 @@ Weitere Informationen zum Projekt finden Sie in unseren Blogposts:
 ### Kontakt
 [Beschreibung ergänzen]
 
-![Anwendungsfall_ Grundsteuererklärung für Privateigentum](https://github.com/jerdesign/useid-documentation/assets/4391042/fae07c19-703b-46ef-bade-7ebf4a4a6844)
+[![Anwendungsfall_ Grundsteuererklärung für Privateigentum](https://github.com/jerdesign/useid-documentation/assets/4391042/fae07c19-703b-46ef-bade-7ebf4a4a6844)](https://digitalservice.bund.de/blog)
 ## Anwendungsfall: Grundsteuererklärung für Privateigentum
 Von November 2022 bis Juni 2023 war es möglich, sich für den Online-Dienst „[Grundsteuererklärung für Privateigentum](https://www.grundsteuererklaerung-fuer-privateigentum.de/)“ mit der BundesIdent App zu identifizieren. Die Einbindung erfolgte über ein ebenfalls von uns entwickeltes [Widget](https://digitalservice.bund.de/glossar#widget). Dieses wurde so ausgestaltet, dass es die einfache Integration in vielfältige Online-Services ermöglicht und perspektivisch ein einheitliches Nutzungserlebnis bei der digitalen Identifikation bietet.
 
