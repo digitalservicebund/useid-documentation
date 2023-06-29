@@ -1,5 +1,5 @@
 # Dokumentation der Projektergebnisse von „Digitale Identitäten“
-Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns von 2021 – 2023 mit dem Thema Digitale Identitäten auseinandergesetzt. Gemeinsam wollten wir die Online-Ausweisfunktion (eID) in den Alltag der Bürger:innen stärker integrieren. Dafür untersuchten wir zunächst die Ursachen und Hürden, die der Nutzung der eID zum damaligen Zeitpunkt im Weg standen. Anhand dieser Erkenntnisse entwickelten wir ein Lösungspaket. Hier eine Auswahl der Projektergebnisse:
+Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns von 2021 – 2023 mit dem Thema Digitale Identitäten auseinandergesetzt. Gemeinsam wollten wir die Online-Ausweisfunktion (eID) in den Alltag der Bürger:innen stärker integrieren. Dafür untersuchten wir zunächst die Ursachen und Hürden, die der Nutzung der eID zum damaligen Zeitpunkt im Weg standen. Anhand dieser Erkenntnisse entwickelten wir ein Lösungspaket. Hier eine erste Auswahl der Projektergebnisse:
 - Die BundesIdent App mit Backend, Widget und [der technischen Dokumentation](https://github.com/digitalservicebund/useid-architecture)
 - Ein [pilotierter Anwendungsfall](#anwendungsfall-grundsteuererkl%C3%A4rung-f%C3%BCr-privateigentum)
 - [Exploration eines Geärtewechsels mit WebAuthn](#exploration-ger%C3%A4twechsel-mit-webauthn)
