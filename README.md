@@ -1,5 +1,5 @@
 # Dokumentation der Projektergebnisse von „Digitale Identitäten“
-[Beschreibung ergänzen]
+Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns von 2021 – 2023 mit dem Thema Digitale Identitäten auseinandergesetzt. Gemeinsam wollten wir die Online-Ausweisfunktion (eID) in den Alltag der Bürger:innen stärker integrieren. Dafür untersuchten wir zunächst die Ursachen und Hürden, die der Nutzung der eID zum damaligen Zeitpunkt im Weg standen. Anhand dieser Erkenntnisse entwickelten wir ein Lösungspaket, bestehend aus der App BundesIdent sowie einem entsprechenden Backend und Widget. Desweiteren haben wir den PIN-Brief überarbeitet, um digitale Komponenten ergänzt und so adressatenfreundlicher und verständlicher gestaltet.
 
 Weitere Informationen zum Projekt finden Sie in unseren Blogposts:
 1. [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten)
@@ -18,24 +18,27 @@ Von November 2022 bis Juni 2023 war es möglich, sich für den Online-Dienst „
 
 [Visual ergänzen]
 
-### Gerätwechsel mit WebAuthn
+### Exploration: Gerätwechsel mit WebAuthn
 [Beschreibung ergänzen]
 - Videodemo: [Video ergänzen]
 
-[Visual ergänzen]
+![PIN-Brief Iteration](https://github.com/jerdesign/useid-documentation/assets/4391042/bc092971-0c43-4c40-92e1-1249f74d0d89)
 
 ## PIN-Brief Iteration
 [Beschreibung ergänzen]
 
 Die neue Iteration des PIN-Briefes wird seit 2023 gedruckt: [PIN-Brief_Perso_2023_Live.pdf](https://github.com/jerdesign/useid-documentation/files/11896471/PIN-Brief_Perso_2023_Live.pdf)
 
-[Visual ergänzen]
+### Exploration der nächsten Iteration
+
+![Einrichtungsassistent in der AusweisApp2](https://github.com/jerdesign/useid-documentation/assets/4391042/08003e19-5f64-47bd-a30a-fbadd665b968)
 
 ## Einrichtungsassistent in der AusweisApp2
 Um Erstnutzer:innen besser abzuholen, haben wir einen Vorschlag für einen Einrichtungsassistenten in der AusweisApp2 erarbeitet:
 - [Figma-Datei](https://www.figma.com/file/f6DoOUO7ggCYosH8jYhqD4/Onboarding-proposal-for-the-AusweisApp2?type=design&node-id=0%3A1&mode=design&t=SLxAANyPFITAt34F-1)
 [Projekt veröffentlichen und Link aktualisieren].
-[Visual ergänzen]
+
+![Usability-Test der eID und AusweisApp2](https://github.com/jerdesign/useid-documentation/assets/4391042/883669f8-a3c3-48fd-b3e0-8a732f49d982)
 
 ## Usability-Test der eID und AusweisApp2
 Die Ergebnisse der 6 Usability-Tests haben wir hier zusammengefasst:
