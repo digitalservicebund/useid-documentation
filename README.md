@@ -1,10 +1,10 @@
 # Dokumentation der Projektergebnisse von „Digitale Identitäten“
 Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns von 2021 – 2023 mit dem Thema Digitale Identitäten auseinandergesetzt. Gemeinsam wollten wir die Online-Ausweisfunktion (eID) in den Alltag der Bürger:innen stärker integrieren. Dafür untersuchten wir zunächst die Ursachen und Hürden, die der Nutzung der eID zum damaligen Zeitpunkt im Weg standen. Anhand dieser Erkenntnisse entwickelten wir ein Lösungspaket. Hier eine erste Auswahl der Projektergebnisse:
-- Die BundesIdent App mit Backend, Widget und [der technischen Dokumentation](https://github.com/digitalservicebund/useid-architecture)
-- Ein [pilotierter Anwendungsfall](#anwendungsfall-grundsteuererkl%C3%A4rung-f%C3%BCr-privateigentum)
+- BundesIdent App mit Backend, Widget und [der technischen Dokumentation](https://github.com/digitalservicebund/useid-architecture)
+- [Pilotierung mit dem Online-Dienst „Grundsteuererklärung für Privateigentum“](#anwendungsfall-grundsteuererkl%C3%A4rung-f%C3%BCr-privateigentum)
 - [Exploration eines Geärtewechsels mit WebAuthn](#exploration-ger%C3%A4twechsel-mit-webauthn)
 - Überarbeitung des PIN-Briefes: [PDF](https://github.com/jerdesign/useid-documentation/files/11896471/PIN-Brief_Perso_2023_Live.pdf)
-- einen Vorschlag für einen Einrichtungsassistenten in der AusweisApp2 erarbeitet: [Figma](https://www.figma.com/file/f6DoOUO7ggCYosH8jYhqD4/Onboarding-proposal-for-the-AusweisApp2?type=design&node-id=0%3A1&mode=design&t=YCgYMWYrJfTqF8sB-1)
+- Vorschlag für einen Einrichtungsassistenten in der AusweisApp2 erarbeitet: [Figma](https://www.figma.com/file/f6DoOUO7ggCYosH8jYhqD4/Onboarding-proposal-for-the-AusweisApp2?type=design&node-id=0%3A1&mode=design&t=YCgYMWYrJfTqF8sB-1)
 - Ergebnisbericht Usability-Test eID & AusweisApp2: [PDF](https://github.com/jerdesign/useid-documentation/files/11896120/Ergebnisbericht.Usability-Test.eID.AusweisApp2.pdf)
 
 ### Weitere Hintergrundinformationen zum Projekt finden Sie in unseren Blogposts:
