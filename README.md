@@ -3,7 +3,7 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 - die BundesIdent App sowie einem entsprechenden Backend und Widget entwickelt
 - den PIN-Brief überarbeitet und so adressatenfreundlicher und verständlicher gestaltet
 - einen Vorschlag für einen Einrichtungsassistenten in der AusweisApp2 erarbeitet:
-- einen [Usability-Test der eID und AusweisApp2](https://github.com/jerdesign/useid-documentation/edit/main/README.md#usability-test-der-eid-und-ausweisapp2) durchgeführt
+- einen [Usability-Test der eID und AusweisApp2](#usability-test-der-eid-und-ausweisapp2) durchgeführt
 
 Weitere Informationen zum Projekt finden Sie in unseren Blogposts: [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten), [Erste Erkenntnisse aus dem Testbetrieb von BundesIdent](https://digitalservice.bund.de/blog/testbetrieb-von-bundesident) und [BundesIdent läuft nach Pilotphase aus, Er­kennt­nisse fließen in Gesamt­vor­haben ein](https://digitalservice.bund.de/blog/digitale-identitaeten-bundesident-laeuft-nach-pilotphase-aus-erkenntnisse-fliessen-in-gesamtvorhaben-ein).
 
