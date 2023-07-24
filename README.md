@@ -1,3 +1,6 @@
+# useid-documentation
+Documentation about the useid project.
+
 # Dokumentation der Projektergebnisse von „Digitale Identitäten“
 Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns von 2021 – 2023 mit dem Thema Digitale Identitäten auseinandergesetzt. Gemeinsam wollten wir die Online-Ausweisfunktion (eID) in den Alltag der Bürger:innen stärker integrieren. Dafür untersuchten wir zunächst die Ursachen und Hürden, die der Nutzung der eID zum damaligen Zeitpunkt im Weg standen. Anhand dieser Erkenntnisse entwickelten wir ein Lösungspaket. Hier eine erste Auswahl der Projektergebnisse:
 - BundesIdent App mit Backend, Widget und [der technischen Dokumentation](https://github.com/digitalservicebund/useid-architecture)
@@ -26,3 +29,21 @@ Um den Gerätewechsel zu vereinfachen, haben wir einen technischen Prototypen mi
 Weitere technische Informationen unter: https://github.com/digitalservicebund/useid-architecture/tree/main/research/device-switch
 
 https://github.com/jerdesign/useid-documentation/assets/4391042/97af0042-75b9-4441-bd0c-0c2f8fe37639
+
+
+## UseId project
+> **Important:  This project has been discontinued**
+​
+This repository is part of the UseId project, that provided the BundesIdent mobile app.  You can find other repositories related to this project in the following list:
+​
+- Architecture
+	- [Architecture](https://github.com/digitalservicebund/useid-architecture/tree/main): Documentation and overview of the UseId architecture
+- Backend
+	- [Backend](https://github.com/digitalservicebund/useid-backend-service): Kotlin service that acts as the backend for the mobile apps and eID-Service integration for eServices.
+- eService
+	- [eService-example](https://github.com/digitalservicebund/useid-eservice-example): An example application for an eService integrating with the UseId identity solution.
+	- [eService-SDK](https://github.com/digitalservicebund/useid-eservice-sdk): Javascript SDK to easily integrate with the UseId identity solution.
+- eID client (mobile app)
+	- [iOS client for BundesIdent](https://github.com/digitalservicebund/useid-app-ios)
+	- [Android client for BundesIdent](https://github.com/digitalservicebund/useid-app-android)
+	- [AusweisApp2 Wrapper iOS](https://github.com/digitalservicebund/AusweisApp2Wrapper-iOS-SPM): Forked repository of the Governikus AusweisApp2 Wrapper for iOS
