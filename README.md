@@ -21,14 +21,14 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 ### Kontakt
 useid@digitalservice.bund.de
 ## Anwendungsfall: Grundsteuererklärung für Privateigentum
-[![Anwendungsfall_ Grundsteuererklärung für Privateigentum](https://github.com/jerdesign/useid-documentation/assets/4391042/fae07c19-703b-46ef-bade-7ebf4a4a6844)](https://digitalservice.bund.de/blog)
-Von November 2022 bis Juni 2023 war es möglich, sich für den Online-Dienst „[Grundsteuererklärung für Privateigentum](https://www.grundsteuererklaerung-fuer-privateigentum.de/)“ mit der BundesIdent App zu identifizieren. Die Einbindung erfolgte über ein ebenfalls von uns entwickeltes [Widget](https://digitalservice.bund.de/glossar#widget). Dieses wurde so ausgestaltet, dass es die einfache Integration in vielfältige Online-Services ermöglicht und perspektivisch ein einheitliches Nutzungserlebnis bei der digitalen Identifikation bietet. Ungekürztes Videodemo: https://user-images.githubusercontent.com/4391042/249636578-54679271-674a-460f-be26-9212a4b0e202.mp4
+![Anwendungsfall_GrundsteuererklärungFürPrivateigentum](https://github.com/digitalservicebund/useid-documentation/assets/4391042/48e06ff4-8506-4955-9605-ac43a712ea9c)
+Von November 2022 bis Juni 2023 war es möglich, sich für den Online-Dienst „[Grundsteuererklärung für Privateigentum](https://www.grundsteuererklaerung-fuer-privateigentum.de/)“ mit der BundesIdent App zu identifizieren. Die Einbindung erfolgte über ein ebenfalls von uns entwickeltes [Widget](https://digitalservice.bund.de/glossar#widget). Dieses wurde so ausgestaltet, dass es die einfache Integration in vielfältige Online-Services ermöglicht und perspektivisch ein einheitliches Nutzungserlebnis bei der digitalen Identifikation bietet. [Ungekürzte Videodemo](https://github-production-user-asset-6210df.s3.amazonaws.com/4391042/256348153-26fb3a4e-c47b-47f0-808c-e0875b35493c.mp4).
 
 ### Videodemo
-https://github.com/jerdesign/useid-documentation/assets/4391042/2ff5542a-e692-4500-8de8-64adb0a7a571
+https://github.com/digitalservicebund/useid-documentation/assets/4391042/0187ce2d-2ebd-4bca-98a5-7c7faa6d0ace
 
 ### Exploration: Gerätwechsel mit WebAuthn
-Um den Gerätewechsel zu vereinfachen, haben wir einen technischen Prototypen mit dem [WebAuthn](https://webauthn.io/)-Standard entwickelt.
+Um den Gerätewechsel zu vereinfachen, haben wir einen technischen Prototypen mit dem [WebAuthn-Standard](https://www.w3.org/TR/webauthn-3/) entwickelt.
 Weitere technische Informationen unter: https://github.com/digitalservicebund/useid-architecture/tree/main/research/device-switch
 
-https://github.com/jerdesign/useid-documentation/assets/4391042/97af0042-75b9-4441-bd0c-0c2f8fe37639
+https://github.com/digitalservicebund/useid-documentation/assets/4391042/51f1afb3-8d52-4ff3-9016-d451ae5c3cd9
