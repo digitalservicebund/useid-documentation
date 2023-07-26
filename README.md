@@ -6,7 +6,7 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 	- [BundsIdent für Android](https://github.com/digitalservicebund/useid-app-android)
    	- [BundesIdent für iOS](https://github.com/digitalservicebund/useid-app-ios)
    	- [AusweisApp2 Wrapper iOS](https://github.com/digitalservicebund/AusweisApp2Wrapper-iOS-SPM)
-   	- Ein [Beispielandwendung](https://github.com/digitalservicebund/useid-eservice-example) und das zugehörige [SDK](https://github.com/digitalservicebund/useid-eservice-sdk)
+   	- Eine [Beispielandwendung](https://github.com/digitalservicebund/useid-eservice-example) und das zugehörige [SDK](https://github.com/digitalservicebund/useid-eservice-sdk)
 - [Pilotierung mit dem Online-Dienst „Grundsteuererklärung für Privateigentum“](#anwendungsfall-grundsteuererkl%C3%A4rung-f%C3%BCr-privateigentum)
 - [Exploration eines Gerätewechsels mit WebAuthn](#exploration-ger%C3%A4twechsel-mit-webauthn)
 - Überarbeitung des PIN-Briefes: [PDF](https://github.com/jerdesign/useid-documentation/files/11896471/PIN-Brief_Perso_2023_Live.pdf)
