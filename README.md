@@ -12,6 +12,12 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 - Überarbeitung des PIN-Briefes: [PDF](https://github.com/digitalservicebund/useid-documentation/files/12176778/PIN-Brief_Personalausweis_2023_Live.pdf)
 - Vorschlag für einen Einrichtungsassistenten in der AusweisApp2 erarbeitet: [Figma](https://www.figma.com/file/f6DoOUO7ggCYosH8jYhqD4/Onboarding-proposal-for-the-AusweisApp2?type=design&node-id=1608%3A949&mode=design&t=YCgYMWYrJfTqF8sB-1)
 - Ergebnisbericht Usability-Test eID & AusweisApp2: [PDF](https://github.com/digitalservicebund/useid-documentation/files/12176788/Ergebnisbericht.Usability-Test.eID.AusweisApp2.pdf)
+- User Flow BundesIdent: [PDF](https://github.com/digitalservicebund/useid-documentation/files/12280748/User.Flow_BundesIdent.pdf)
+- Umfrageergebnisse von Nutzenden zur Verwendun von BundesIdent imOnline-Service „Grundsteuererklärung für Privateigentum”: [PDF](https://github.com/digitalservicebund/useid-documentation/files/12280759/User.Flow_BundesIdent.pdf)
+- Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID: [PDF](https://github.com/digitalservicebund/useid-documentation/files/12280772/Arbeitsstand.Ideensammlung_Mai.2023.pdf)
+
+
+
 
 ### Weitere Hintergrundinformationen zum Projekt finden Sie in unseren Blogposts:
 - [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten)
