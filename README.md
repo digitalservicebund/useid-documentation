@@ -1,13 +1,13 @@
 # Dokumentation der Projektergebnisse von „Digitale Identitäten“
 Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns von 2021 – 2023 mit dem Thema Digitale Identitäten auseinandergesetzt. Gemeinsam wollten wir die Online-Ausweisfunktion (eID) in den Alltag der Bürger:innen stärker integrieren. Dafür untersuchten wir zunächst die Ursachen und Hürden, die der Nutzung der eID zum damaligen Zeitpunkt im Weg standen. Anhand dieser Erkenntnisse entwickelten wir ein Lösungspaket. Hier eine Auswahl der Projektergebnisse:
-1. BundesIdent App
-2. [Anwendungsfall: Grundsteuererklärung für Privateigentum](#anwendungsfall-grundsteuererkl%C3%A4rung-f%C3%BCr-privateigentum)
-3. Überarbeitung des PIN-Briefes
-4. Handlungsempfehlungen für den Abbau von Nutzungshürden
-5. [Exploration eines Gerätewechsels mit WebAuthn](#exploration-ger%C3%A4twechsel-mit-webauthn)
-6. Entwurf eines Einrichtungsassistenten für die AusweisApp2
-7. Ergebnisbericht Usability-Test eID & AusweisApp2
-8. Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID
+1. [BundesIdent App](#1-bundesident-app)
+2. [Anwendungsfall: Grundsteuererklärung für Privateigentum](#2-anwendungsfall-grundsteuererklärung-für-privateigentum)
+3. [Überarbeitung des PIN-Briefes](#3-überarbeitung-des-pin-briefes)
+4. [Handlungsempfehlungen für den Abbau von Nutzungshürden](#4-handlungsempfehlungen-für-den-abbau-von-nutzungshürden)
+5. [Exploration eines Gerätewechsels mit WebAuthn](#5-exploration-gerätwechsel-mit-webauthn)
+6. [Entwurf eines Einrichtungsassistenten für die AusweisApp2](#6-entwurf-eines-einrichtungsassistenten-für-die-ausweisapp2)
+7. [Ergebnisbericht Usability-Test eID & AusweisApp2](#7-ergebnisbericht-usability-test-eid--ausweisapp2)
+8. [Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID](#8-mögliche-ansatzpunkte-zur-anpassung-von-technischen-eid-richtlinien-und-der-personalausweisverordnung-anhand-von-beobachtungspunkten-der-user-journey-mit-der-eid)
 
 
 ### Weitere Hintergrundinformationen zum Projekt finden Sie in unseren Blogposts:
