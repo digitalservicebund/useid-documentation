@@ -21,8 +21,8 @@ useid@digitalservice.bund.de
 ## 1. BundesIdent App
 ![BundesIdent_App](https://github.com/digitalservicebund/useid-documentation/assets/4391042/dc2fe213-0e52-42d7-b652-bc6a83c65751)
 
-Zitat aus unserem [Blog](https://digitalservice.bund.de/blog/testbetrieb-von-bundesident):
-> Die initiale Nutzung des Online-Ausweises ist sehr voraussetzungsvoll und enthält ungewohnte Komponenten – zum Beispiel den Ausweis für den Scan-Vorgang ans Smartphone zu halten und so das Smartphone als Kartenlesegerät zu nutzen. An dieser Stelle bedarf es einer mobilen App, die die Nutzer:innen Schritt für Schritt an die Hand nimmt und intuitiv durch den Identifizierungsvorgang im Zusammenspiel mit dem Ausweisdokument führt.
+Mit der BundesIdent App und einem digital fähigen Ausweisdokument können sich Nutzer:innen online identifizieren. Nutzer:innen werden Schritt für Schritt durch den gesamten Identifizierungsprozess geführt. Mithilfe des Web-Widgets wird der Einstieg in die App erleichtert. Durch ein zeitgemäßes Design und einer bundesnahen Gestaltung durch die Orientierung am Corporate Design Styleguide wird Vertrauen in die Lösung geschaffen und damit die Akzeptanz der Online-Ausweisfunktion gestärkt. Auf Basis der Nutzungsdaten wurde das Nutzungserlebnis kontinuierlich optimiert (u.a. durch A/B-Tests) und das Produkt ziel- und nutzerorientiert um weitere Funktionen ergänzt. So konnten Abbruchquoten durch iterative und schnelle Weiterentwicklung reduziert werden.
+
 - [Technische Architektur](https://github.com/digitalservicebund/useid-architecture)
 - [Backend](https://github.com/digitalservicebund/useid-backend-service)
 - [BundsIdent für Android](https://github.com/digitalservicebund/useid-app-android)
