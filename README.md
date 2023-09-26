@@ -7,7 +7,8 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 5. [Exploration eines Gerätewechsels mit WebAuthn](#5-exploration-gerätwechsel-mit-webauthn)
 6. [Entwurf eines Einrichtungsassistenten für die AusweisApp2](#6-entwurf-eines-einrichtungsassistenten-für-die-ausweisapp2)
 7. [Ergebnisbericht Usability-Test eID & AusweisApp2](#7-ergebnisbericht-usability-test-eid--ausweisapp2)
-8. [Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID](#8-mögliche-ansatzpunkte-zur-anpassung-von-technischen-eid-richtlinien-und-der-personalausweisverordnung-anhand-von-beobachtungspunkten-der-user-journey-mit-der-eid)
+8. [Nutzungsreise der Bürger:innen](#8-nutzungsreise-der-bürger:innen)
+9. [Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID](#9-mögliche-ansatzpunkte-zur-anpassung-von-technischen-eid-richtlinien-und-der-personalausweisverordnung-anhand-von-beobachtungspunkten-der-user-journey-mit-der-eid)
 
 
 ### Weitere Hintergrundinformationen zum Projekt finden Sie in unseren Blogposts:
@@ -137,7 +138,20 @@ Der [Ergebnisbericht Usability‑Test eID & AusweisApp2 als PDF](https://github.
 - Der Scan-Vorgang zur Authentifizierung kann schnell erlernt werden und begeistert Nutzer:innen. Allerdings wird nicht klar, warum der Ausweis beim Diensteanbieter wiederholt gescannt werden muss.
 - Insgesamt gibt es innerhalb der AusweisApp2 keine großen Usability-Probleme. Es sind die Erwartungen der Nutzer:innen und der unhandliche Kopplungsprozess, sowie der Wechsel zwischen Diensteanbieter und AusweisApp2, die die Nutzung verkompliziert.
 
-## 8. Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID
+## 8. Nutzungsreise der Bürger:innen
+![Nutzungsreise_eID](https://github.com/digitalservicebund/useid-documentation/assets/4391042/bb76e75f-8e39-4c07-9dc7-8870a013c6e2)
+
+Die aus den qualitativen Interviews mit Nutzer:innen, Expert:innen und Mitarbeitenden in Verwaltung und Bürgerbüros entstandene Nutzungsreise zeigt, dass die Akzeptanzprobleme der eID schon beim Erhalt des Personalausweises einsetzen.
+- Die Erfahrung auf dem Amt bei Beantragung eines neuen Personalausweises trägt nicht zu dessen Nutzung im digitalen Raum bei. Teilweise wird Bürger:innen sogar aktiv abgeraten, die Online-Ausweisfunktion zu nutzen.
+- Der PIN-Brief zur Aktivierung der Online-Ausweisfunktion verwirrt die Nutzer:innen. Sie können seine Relevanz nicht einschätzen.
+- Es vergeht zu viel Zeit (Monate bis Jahre) zwischen Erhalt des Personalausweises mit Online-Ausweisfunktion und der ersten Nutzung: die eID gerät in Vergessenheit.
+- Es gibt zu wenig konkrete Anwendungsfälle, die zur Nutzung motivieren.
+- Die initiale Nutzung der eID ist komplex, es fehlt an Übung und Erklärung.
+- Es ist unklar, wie genau die eID genutzt wird.
+
+Weitere Informationen in unserem Blogpost: [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten)
+
+## 9. Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID
 ![Nutzungsreise_eID](https://github.com/digitalservicebund/useid-documentation/assets/4391042/8f97f346-5fe7-4c42-8340-ecaf7c7d7aee)
 
 Dies ist ein Arbeitsstand aus der Pilotphase der BundesIdent App. Die übergreifende Zielsetzung der Ideen ist, das Nutzungserlebnis (UX)
