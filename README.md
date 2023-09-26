@@ -71,7 +71,7 @@ Frage an die Nutzenden nach erfolgreicher Identifizierung.
 ## 3. Überarbeitung des PIN-Briefes
 ![PIN-Brief](https://github.com/digitalservicebund/useid-documentation/assets/4391042/528679c1-8961-464c-805f-cb001d680b04)
 
-Um die Erstnutzung zu erleichtern, haben wir den PIN-Brief überarbeitet: [PDF](https://github.com/digitalservicebund/useid-documentation/files/12176778/PIN-Brief_Personalausweis_2023_Live.pdf). Der alte PIN-Brief: [PDF](https://github.com/digitalservicebund/useid-documentation/files/12646248/PIN-Brief_Personalausweis_2022.pdf)
+Um die Erstnutzung zu erleichtern, haben wir den PIN-Brief überarbeitet: [Design in Figma](https://www.figma.com/file/uqkgjv2znYCxSs2ys92WLH/PIN-Brief-iteration-2023?type=design&node-id=662%3A55767&mode=design&t=I4xA6TI6b37fNsfU-1). Der [neue PIN-Brief als PDF](https://github.com/digitalservicebund/useid-documentation/files/12176778/PIN-Brief_Personalausweis_2023_Live.pdf) und der alte [PIN-Brief als PDF](https://github.com/digitalservicebund/useid-documentation/files/12646248/PIN-Brief_Personalausweis_2022.pdf). 
 
 ## 4. Handlungsempfehlungen für den Abbau von Nutzungshürden
 
