@@ -130,7 +130,7 @@ die eID mit der AusweisApp2 einzurichten. Modernes Auftreten und freundliche, we
 ## 7. Ergebnisbericht Usability-Test eID & AusweisApp2
 ![Ergebnisbericht-Usability-Test-eID- -AusweisApp2](https://github.com/digitalservicebund/useid-documentation/assets/4391042/fc8ab724-89e8-46aa-8e29-22536f41d8d6)
 
-Der [Ergebnisbericht Usability‑Test eID & AusweisApp2 als PDF](https://github.com/digitalservicebund/useid-documentation/files/12729432/Ergebnisbericht_Usability-Test_eID_._AusweisApp2.pdf). 2021 haben wir sechs qualitative Interviews á 60 Minuten geführt. Die Teilnehmer:innen sollten online ihre Punkte in Flensburg nachgucken. Dazu war die Ersteinrichtung der eID mithilfe des PIN-Briefes und die Nutzung der AusweisApp2 notwendig. Unsere Haupterkenntnisse:
+Der [Ergebnisbericht Usability‑Test eID & AusweisApp2 als PDF](https://github.com/digitalservicebund/useid-documentation/files/12729446/Ergebnisbericht_Usability-Test_eID_AusweisApp2.pdf). 2021 haben wir sechs qualitative Interviews á 60 Minuten geführt. Die Teilnehmer:innen sollten online ihre Punkte in Flensburg nachgucken. Dazu war die Ersteinrichtung der eID mithilfe des PIN-Briefes und die Nutzung der AusweisApp2 notwendig. Unsere Haupterkenntnisse:
 - Der Mehrwert der eID ist nicht eindeutig für Bürger:innen. Somit ist das Interesse zum initialen Einrichten nicht hoch.
 - Bürger:innen wissen nicht, was „NFC“ ist und ob ihr Smartphone NFC-fähig ist.
 - Der PIN-Brief kommuniziert die Notwendigkeit der AusweisApp2 nicht. Die Notwendigkeit wird erst auf der Seite des Diensteanbieters klar. Unklar bleibt, dass damit auch eine Desktop-App gemeint ist.
