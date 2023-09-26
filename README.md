@@ -116,10 +116,10 @@ Um die Erstnutzung zu erleichtern, haben wir den PIN-Brief überarbeitet: [PDF](
 ** November 2022 – Juni 2023
 
 ## 5. Exploration: Gerätwechsel mit WebAuthn
-Um den Gerätewechsel zu vereinfachen, haben wir einen technischen Prototypen mit dem [WebAuthn-Standard](https://www.w3.org/TR/webauthn-3/) entwickelt.
-Weitere technische Informationen unter: https://github.com/digitalservicebund/useid-architecture/tree/main/research/device-switch
-
 https://github.com/digitalservicebund/useid-documentation/assets/4391042/51f1afb3-8d52-4ff3-9016-d451ae5c3cd9
+
+Um den Gerätewechsel zu vereinfachen, haben wir einen technischen Prototypen mit dem [WebAuthn-Standard](https://www.w3.org/TR/webauthn-3/) entwickelt. Der Vorteil: Es muss keine Desktopapp heruntergeladen werden. Um den Flow zu vereinfachen, könnte ein QR-Code-Scanner direkt in die App integriert und überflüssige Schritte entfernt werden. Desweiteren könnten ergänzende Erklärtexte besser durch den neuartigen Flow mit Passkeys leiten.
+Weitere technische Informationen unter: https://github.com/digitalservicebund/useid-architecture/tree/main/research/device-switch 
 
 ## 6. Entwurf eines Einrichtungsassistenten für die AusweisApp2
 ![Einrichtungsassistent_AusweisApp2](https://github.com/digitalservicebund/useid-documentation/assets/4391042/a2e8ac68-275a-4e2c-8f3d-98d23c88ff90)
