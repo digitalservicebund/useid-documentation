@@ -29,8 +29,13 @@ Mit der BundesIdent App und einem digital fähigen Ausweisdokument können sich 
 - [BundsIdent für Android](https://github.com/digitalservicebund/useid-app-android)
 - [BundesIdent für iOS](https://github.com/digitalservicebund/useid-app-ios)
 - [AusweisApp2 Wrapper iOS](https://github.com/digitalservicebund/AusweisApp2Wrapper-iOS-SPM)
-- User Flow: [PDF](https://github.com/digitalservicebund/useid-documentation/files/12646866/UserFlow_BundesIdent.pdf)
+- [User Flow als PDF](https://github.com/digitalservicebund/useid-documentation/files/12646866/UserFlow_BundesIdent.pdf)
 - Eine [Beispielandwendung](https://github.com/digitalservicebund/useid-eservice-example) und das zugehörige [SDK](https://github.com/digitalservicebund/useid-eservice-sdk)
+- [Illustrationen](#-Illustrationen)
+
+### Illustrationen
+![Illustrationen_BundesIdent](https://github.com/digitalservicebund/useid-documentation/assets/4391042/f5d70381-fd99-45ad-afd5-84d0dfe5a681)
+Um die App aufzulockern, haben wir eine Reihe an Illustrationen in Auftrag gegeben. Die Illustrationen kommen vor allem dann zum Einsatz, wenn es einen Fehler gibt oder für die Nutzenden ein Mehraufwand entsteht.
 
 ## 2. Anwendungsfall: Grundsteuererklärung für Privateigentum
 ![Anwendungsfall_GrundsteuererklärungFürPrivateigentum](https://github.com/digitalservicebund/useid-documentation/assets/4391042/48e06ff4-8506-4955-9605-ac43a712ea9c)
