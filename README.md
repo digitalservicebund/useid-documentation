@@ -2,7 +2,7 @@
 Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns von 2021 – 2023 mit dem Thema Digitale Identitäten auseinandergesetzt. Gemeinsam wollten wir die Online-Ausweisfunktion (eID) in den Alltag der Bürger:innen stärker integrieren. Dafür untersuchten wir zunächst die Ursachen und Hürden, die der Nutzung der eID zum damaligen Zeitpunkt im Weg standen. Anhand dieser Erkenntnisse entwickelten wir ein Lösungspaket. Hier eine Auswahl der Projektergebnisse:
 1. [BundesIdent App](#1-bundesident-app)
 2. [Anwendungsfall: Grundsteuererklärung für Privateigentum](#2-anwendungsfall-grundsteuererklärung-für-privateigentum)
-3. [Überarbeitung des PIN-Briefes](#3-überarbeitung-des-pin-briefes)
+3. [PIN-Brief-Iteration](#3-pin-brief-iteration)
 4. [Handlungsempfehlungen für den Abbau von Nutzungshürden](#4-handlungsempfehlungen-für-den-abbau-von-nutzungshürden)
 5. [Exploration eines Gerätewechsels mit WebAuthn](#5-exploration-gerätwechsel-mit-webauthn)
 6. [Entwurf eines Einrichtungsassistenten für die AusweisApp2](#6-entwurf-eines-einrichtungsassistenten-für-die-ausweisapp2)
@@ -73,10 +73,12 @@ Frage an die Nutzenden nach erfolgreicher Identifizierung.
 - Zu je 5-6 % wurde angemerkt, dass Erläuterungen fehlten und dass es nur eine App geben sollte – nicht AA2 und BundesIdent parallel.
 - 15 % gaben sonstige Rückmeldungen, die teilweise ohne Bezug zu BundesIdent waren.
 
-## 3. Überarbeitung des PIN-Briefes
-![PIN-Brief](https://github.com/digitalservicebund/useid-documentation/assets/4391042/528679c1-8961-464c-805f-cb001d680b04)
+## 3. PIN-Brief-Iteration
+![PIN-Brief](https://github.com/digitalservicebund/useid-documentation/assets/4391042/34bec366-b3ee-40ac-ab59-18e53a58c14d)
 
-Um die Erstnutzung zu erleichtern, haben wir den PIN-Brief überarbeitet: [Design in Figma](https://www.figma.com/file/uqkgjv2znYCxSs2ys92WLH/PIN-Brief-iteration-2023?type=design&node-id=662%3A55767&mode=design&t=I4xA6TI6b37fNsfU-1). Der [neue PIN-Brief als PDF](https://github.com/digitalservicebund/useid-documentation/files/12176778/PIN-Brief_Personalausweis_2023_Live.pdf) und der alte [PIN-Brief als PDF](https://github.com/digitalservicebund/useid-documentation/files/12646248/PIN-Brief_Personalausweis_2022.pdf). 
+Der [neue PIN-Brief als PDF](https://github.com/digitalservicebund/useid-documentation/files/12176778/PIN-Brief_Personalausweis_2023_Live.pdf) und der alte [PIN-Brief als PDF](https://github.com/digitalservicebund/useid-documentation/files/12646248/PIN-Brief_Personalausweis_2022.pdf). [Design und Entwürfe in Figma](https://www.figma.com/file/uqkgjv2znYCxSs2ys92WLH/PIN-Brief-iteration-2023?type=design&node-id=662%3A55767&mode=design&t=I4xA6TI6b37fNsfU-1).
+
+Um die Erstnutzung zu erleichtern, haben wir die Texte gekürzt und vereinfacht. Die sechs Anwendungsbeispiele inklusive Logo der Diensteanbieter machen den Mehrwert verständlicher. Die drei Prozessschritte mit ihren Grafiken auf der zweiten Seite verdeutlichen den Einrichtungsprozess. Bei der nächsten Version könnten die Texte und das Layout weiter iteriert werden, auch vom PIN-Rücksetztbrief. Eine detailliertere Analyse des PIN-Briefes gibt es im [Ergebnisbericht Usability‑Test eID & AusweisApp2](#7-ergebnisbericht-usability-test-eid--ausweisapp2).
 
 ## 4. Handlungsempfehlungen für den Abbau von Nutzungshürden
 
