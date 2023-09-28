@@ -46,6 +46,7 @@ Um die App aufzulockern, haben wir eine Reihe an Illustrationen in Auftrag gegeb
 
 ## 2. Anwendungsfall: Grundsteuererklärung für Privateigentum
 ![Anwendungsfall_GrundsteuererklärungFürPrivateigentum](https://github.com/digitalservicebund/useid-documentation/assets/4391042/ee6d3a43-d1b1-47d2-9711-e00e86ae2c28)
+
 Von November 2022 bis Juni 2023 war es möglich, sich für den Online-Dienst „[Grundsteuererklärung für Privateigentum](https://www.grundsteuererklaerung-fuer-privateigentum.de/)“ mit der BundesIdent App zu identifizieren. Die Einbindung erfolgte über ein ebenfalls von uns entwickeltes [Widget](https://digitalservice.bund.de/glossar#widget). Dieses wurde so ausgestaltet, dass es die einfache Integration in vielfältige Online-Services ermöglicht und perspektivisch ein einheitliches Nutzungserlebnis bei der digitalen Identifikation bietet. [Ungekürztes Videodemo](https://github-production-user-asset-6210df.s3.amazonaws.com/4391042/256348153-26fb3a4e-c47b-47f0-808c-e0875b35493c.mp4).
 
 ### Videodemo
