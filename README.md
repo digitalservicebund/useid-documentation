@@ -44,7 +44,7 @@ Um die App aufzulockern, haben wir eine Reihe an Illustrationen in Auftrag gegeb
 
 Die Einbindung von BundesIdent in den Online-Dienst „[Grundsteuererklärung für Privateigentum](https://www.grundsteuererklaerung-fuer-privateigentum.de/)“ erfolgte über ein ebenfalls von uns entwickeltes Widget. Dieses wurde so ausgestaltet, dass es die einfache Integration in vielfältige Online-Services ermöglicht und perspektivisch ein einheitliches Nutzungserlebnis bei der digitalen Identifikation bietet.
 
-### Erste Designideen für ein Widget 2.0 | Nicht mit Nutzer:innen getestet
+### Erste Designidee für das Widget 2.0 | Nicht mit Nutzer:innen getestet
 ![Widget_2 0](https://github.com/digitalservicebund/useid-documentation/assets/4391042/b723e06e-4d72-4313-a6f1-68baba8dc134)
 
 Das Widget beim Online-Dienst ist ein Berührungspunkt mit viel Potential, vor allem bei der Erstnutzung. In einem Prototypen haben wir erarbeitet, wie eine Ausbaustufe des Widgets funktionieren könnte: [www.widget-iteration.webflow.io](https://widget-iteration.webflow.io/) Das Widget wird dabei auf einen Button reduziert: »Mit Ausweis identifizieren«. Wenn eine eID-App bereits installiert ist, öffnet sich nach einem Tap die App. Wir können hier nämlich davon ausgehen, dass sich die Nutzer:innen bereits erfolgreich mit der eID identifiziert haben. Sollte noch keine eID-App installiert sein, werden die Nutzer:innen mit einfachen Fragen im Widget durch die Erstnutzung geleitet. Dabei werden Schritt für Schritt die Anforderungen abgefragt. Dazu gehören unter anderem ein kompatibles Smartphone, ein kompatibler und gültiger Ausweis sowie die PIN oder der PIN-Brief. Wird eine dieser Anforderungen nicht erfüllt, kann frühzeitig im Widget eine Lösung aufgezeigt werden und somit die Abbruchquote verringert werden. Dieser Prototyp wurde noch nicht mit Nutzer:innen getestet.
@@ -54,7 +54,9 @@ Das Widget beim Online-Dienst ist ein Berührungspunkt mit viel Potential, vor a
 
 Von November 2022 bis Juni 2023 war es möglich, sich für den Online-Dienst „[Grundsteuererklärung für Privateigentum](https://www.grundsteuererklaerung-fuer-privateigentum.de/)“ mit der BundesIdent App zu identifizieren. Die Einbindung erfolgte über ein ebenfalls von uns entwickeltes [Widget](https://digitalservice.bund.de/glossar#widget). Dieses wurde so ausgestaltet, dass es die einfache Integration in vielfältige Online-Services ermöglicht und perspektivisch ein einheitliches Nutzungserlebnis bei der digitalen Identifikation bietet. [Das ungekürzte Videodemo](https://github-production-user-asset-6210df.s3.amazonaws.com/4391042/256348153-26fb3a4e-c47b-47f0-808c-e0875b35493c.mp4).
 
-### Kompletter Grundsteuerflow vom 8. Mai 2023 als PDF
+### Grundsteuerflow
+[Grundsteuerflow vom 8. Mai 2023 als PDF](https://github.com/digitalservicebund/useid-documentation/files/12894997/Grundsteuer-Flow_2023_05_08.pdf)
+
 ![Flow_Grundsteuer](https://github.com/digitalservicebund/useid-documentation/assets/4391042/fb387721-b8ed-4bc1-93c0-655c59f28c7d)
 
 ### Videodemo
