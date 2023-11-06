@@ -174,7 +174,7 @@ Der [Ergebnisbericht Usability‑Test eID & AusweisApp2 als PDF](https://github.
 - Insgesamt gibt es innerhalb der AusweisApp2 keine großen Usability-Probleme. Es sind die Erwartungen der Nutzer:innen und der unhandliche Kopplungsprozess, sowie der Wechsel zwischen Diensteanbieter und AusweisApp2, die die Nutzung verkompliziert.
 
 ## 8. Fünfzehn allgemeine Handlungsempfehlungen für eine erhöhte Verbreitung der Online-Ausweisfunktion basierend auf qualitativer Forschung aus 2021
-Die Handlungsempfehlungen basieren auf qualitativer Forschung  Expert:innen- und Nutzer:inneninterviews, Usability Tests, Resonanztests, Expertenanalysen des Teams sowie der im September 2021 durchgeführten quantitativen Studie.
+Die Handlungsempfehlungen basieren auf qualitativer Forschung Expert:innen- und Nutzer:inneninterviews, Usability Tests, Resonanztests, Expertenanalysen des Teams sowie der im September 2021 durchgeführten quantitativen Studie.
 
 ### 1. eID als starke Marke bzw. Submarke
 
