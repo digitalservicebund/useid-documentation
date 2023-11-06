@@ -7,7 +7,7 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 5. [Exploration eines Gerätewechsels mit WebAuthn](#5-exploration-gerätwechsel-mit-webauthn)
 6. [Entwurf eines Einrichtungsassistenten für die AusweisApp2](#6-entwurf-eines-einrichtungsassistenten-für-die-ausweisapp2)
 7. [Ergebnisbericht: Usability-Test eID & AusweisApp2](#7-ergebnisbericht-usability-test-eid--ausweisapp2)
-8. [Ergebnisbericht: Nutzung der eID durch Diensteanbieter](8-ergebnisbericht-nutzung-der-eid-durch-diensteanbieter)
+8. [Ergebnisbericht: Nutzung der eID durch Diensteanbieter](#8-ergebnisbericht-nutzung-der-eid-durch-diensteanbieter)
 9. [Fünfzehn allgemeine Handlungsempfehlungen für eine erhöhte Verbreitung der Online-Ausweisfunktion basierend auf qualitativer Forschung aus 2021](#9-fünfzehn-allgemeine-handlungsempfehlungen-für-eine-erhöhte-verbreitung-der-online-ausweisfunktion-basierend-auf-qualitativer-forschung-aus-2021)
 10. [Nutzungsreise der Bürger:innen und Diensteanbieter](#10-nutzungsreise-der-bürgerinnen-und-diensteanbieter)
 11. [Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID](#11-mögliche-ansatzpunkte-zur-anpassung-von-technischen-eid-richtlinien-und-der-personalausweisverordnung-anhand-von-beobachtungspunkten-der-user-journey-mit-der-eid)
