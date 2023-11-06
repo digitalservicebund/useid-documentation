@@ -9,7 +9,7 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 7. [Ergebnisbericht: Usability-Test eID & AusweisApp2](#7-ergebnisbericht-usability-test-eid--ausweisapp2)
 8. [Ergebnisbericht: Nutzung der eID durch Diensteanbieter]()
 9. [Fünfzehn allgemeine Handlungsempfehlungen für eine erhöhte Verbreitung der Online-Ausweisfunktion basierend auf qualitativer Forschung aus 2021](#9-fünfzehn-allgemeine-handlungsempfehlungen-für-eine-erhöhte-verbreitung-der-online-ausweisfunktion-basierend-auf-qualitativer-forschung-aus-2021)
-10. [Nutzungsreise der Bürger:innen](#10-nutzungsreise-der-bürgerinnen)
+10. [Nutzungsreise der Bürger:innen und Diensteanbieter](#10-nutzungsreise-der-bürgerinnen-und-diensteanbieter)
 11. [Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID](#11-mögliche-ansatzpunkte-zur-anpassung-von-technischen-eid-richtlinien-und-der-personalausweisverordnung-anhand-von-beobachtungspunkten-der-user-journey-mit-der-eid)
 
 
@@ -441,10 +441,11 @@ Vertesten von verschiedenen Ideen zur Senkung der Hürde, wie Gebühren ermäßi
 
 **Adressat:innen der Empfehlung**: BMI, Länder, Kommunen
 
-## 10. Nutzungsreise der Bürger:innen
+## 10. Nutzungsreise der Bürger:innen und Diensteanbieter
 ![Nutzungsreise_eID](https://github.com/digitalservicebund/useid-documentation/assets/4391042/bb76e75f-8e39-4c07-9dc7-8870a013c6e2)
 
-Die aus den qualitativen Interviews mit Nutzer:innen, Expert:innen und Mitarbeitenden in Verwaltung und Bürgerbüros entstandene Nutzungsreise zeigt, dass die Akzeptanzprobleme der eID schon beim Erhalt des Personalausweises einsetzen.
+Die aus den qualitativen Interviews mit Nutzer:innen, Expert:innen und Mitarbeitenden in Verwaltung und Bürgerbüros entstandene Nutzungsreisen zeigen, dass die Akzeptanzprobleme der eID schon beim Erhalt des Personalausweises einsetzen. Die [Nutzungsreise aus Sicht der Bürger:innen als PDF](https://github.com/digitalservicebund/useid-documentation/files/13266457/Nutzungsreise_eID_BurgerInnen.pdf) und die [Nutzungsreise aus Sicht der Diensteanbieter als PDF](https://github.com/digitalservicebund/useid-documentation/files/13266458/Nutzungsreise_eID_Diensteanbieter.pdf). Unsere Haupterkenntnisse:
+
 - Die Erfahrung auf dem Amt bei Beantragung eines neuen Personalausweises trägt nicht zu dessen Nutzung im digitalen Raum bei. Teilweise wird Bürger:innen sogar aktiv abgeraten, die Online-Ausweisfunktion zu nutzen.
 - Der PIN-Brief zur Aktivierung der Online-Ausweisfunktion verwirrt die Nutzer:innen. Sie können seine Relevanz nicht einschätzen.
 - Es vergeht zu viel Zeit, Monate bis Jahre, zwischen Erhalt des Personalausweises mit Online-Ausweisfunktion und der ersten Nutzung: die eID gerät in Vergessenheit.
@@ -452,7 +453,7 @@ Die aus den qualitativen Interviews mit Nutzer:innen, Expert:innen und Mitarbeit
 - Die initiale Nutzung der eID ist komplex, es fehlt an Übung und Erklärung.
 - Es ist unklar, wie genau die eID genutzt wird.
 
-Weitere Informationen in unserem Blogpost: [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten)
+Weitere Informationen in unserem Blogpost: [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten).
 
 ## 11. Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID
 ![Nutzungsreise_eID](https://github.com/digitalservicebund/useid-documentation/assets/4391042/8f97f346-5fe7-4c42-8340-ecaf7c7d7aee)
