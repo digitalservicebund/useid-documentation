@@ -8,9 +8,10 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 6. [Entwurf eines Einrichtungsassistenten für die AusweisApp2](#6-entwurf-eines-einrichtungsassistenten-für-die-ausweisapp2)
 7. [Ergebnisbericht: Usability-Test eID & AusweisApp2](#7-ergebnisbericht-usability-test-eid--ausweisapp2)
 8. [Ergebnisbericht: Nutzung der eID durch Diensteanbieter](#8-ergebnisbericht-nutzung-der-eid-durch-diensteanbieter)
-9. [Fünfzehn allgemeine Handlungsempfehlungen für eine erhöhte Verbreitung der Online-Ausweisfunktion basierend auf qualitativer Forschung aus 2021](#9-fünfzehn-allgemeine-handlungsempfehlungen-für-eine-erhöhte-verbreitung-der-online-ausweisfunktion-basierend-auf-qualitativer-forschung-aus-2021)
-10. [Nutzungsreise der Bürger:innen und Diensteanbieter](#10-nutzungsreise-der-bürgerinnen-und-diensteanbieter)
-11. [Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID](#11-mögliche-ansatzpunkte-zur-anpassung-von-technischen-eid-richtlinien-und-der-personalausweisverordnung-anhand-von-beobachtungspunkten-der-user-journey-mit-der-eid)
+9. Ergebnisbericht: Interviewkonsolidierung
+10. [Fünfzehn allgemeine Handlungsempfehlungen für eine erhöhte Verbreitung der Online-Ausweisfunktion basierend auf qualitativer Forschung aus 2021](#10-fünfzehn-allgemeine-handlungsempfehlungen-für-eine-erhöhte-verbreitung-der-online-ausweisfunktion-basierend-auf-qualitativer-forschung-aus-2021)
+11. [Nutzungsreise der Bürger:innen und Diensteanbieter](#11-nutzungsreise-der-bürgerinnen-und-diensteanbieter)
+12. [Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID](#12-mögliche-ansatzpunkte-zur-anpassung-von-technischen-eid-richtlinien-und-der-personalausweisverordnung-anhand-von-beobachtungspunkten-der-user-journey-mit-der-eid)
 
 
 ### Weitere Hintergrundinformationen zum Projekt finden Sie in unseren Blogposts:
@@ -183,7 +184,36 @@ Die Frage ist nicht nur, welche Hürden die eID-Einführung an sich hat, sondern
 ### Unser Fazit
 Organisatorische, technische und wirtschaftliche Anforderungen stellen nicht die größte Hürde dar. Damit Diensteanbieter die eID neben anderen Optionen der Identifizierung anbieten, muss eine höhere Nutzer:innen-Basis mit eingerichteter PIN gewonnen sowie die Erfahrung der Bürger:innen mit der staatlichen digitalen Identität verbessert werden. Gleichzeitig sollten durch weiteren aktiven Austausch Erkenntnisse und Bedürfnisse der Privatwirtschaft in die Weiterentwicklung der digitalen Identität einfließen.
 
-## 9. Fünfzehn allgemeine Handlungsempfehlungen für eine erhöhte Verbreitung der Online-Ausweisfunktion basierend auf qualitativer Forschung aus 2021
+## 9. Ergebnisbericht: Interviewkonsolidierung
+2021 haben wir mehrere qualitative Tiefeninterviews durchgeführt und in zwei Studien zusammengefasst. Unser Forschungsfokus lag auf folgenden drei Fragen:
+
+- Welche Funktionalitäten der Verwaltungs-Touchpoint müssen konsolidiert werden, um für potentiell Nutzende den Zugang zu digitalen Verwaltungsleistungen zu vereinfachen?
+- Welche Anwendungsfälle sind die größten Treiber für potentiell Nutzende für die Verwendung der „Digitalen Verwaltung und Identität”?
+- Welcher Name ist für eine gebündelte App für Verwaltungsleistungen für potentiell Nutzende sinnvoll und verständlich?
+
+### Studie 1
+Der [Ergebnisbericht: Interviewkonsolidierung Studie 1 als PDF](https://github.com/digitalservicebund/useid-documentation/files/13266601/Ergebnisbericht_Konsolidierung.Studie.1_Projektphase.Research_2021_Dezember.pptx.pdf). Unsere Haupterkenntnisse:
+
+- Verwaltungsportal wird als wichtigste Funktion benannt
+	- Ein Ausbau des NutzerkontoBund in Richtung Auffindbarkeit gewünscht
+- Anwendungsfälle in der Verwaltung oder verwaltungsnahen Bereichen sind interessanter als in der Privatwirtschaft
+- Statusmonitor zum Einblick zum Status von Anträgen ist beliebt und sollte weiter betrachtet werden
+- Auffindbarkeit, Status, Kommunikation und Nutzerkonto sind wichtiger für potentielle Nutzende als Nachweise abzuspeichern
+- Annahme der Teilnehmenden ist, dass digitale Nachweise auch Ersatz physischer/analoger Nachweise sind
+- Erstes Indiz, dass es nicht dringend notwendig den kompletten Prozess einer Verwaltungsleistung in 1 App bzw. Touchpoint durchzuführen, dennoch sind möglichst wenige Brüche und flüssige Gesamterfahrung wünschenswert
+- Es ist relevant, WAS konkret mit den umrahmenden Funktionalitäten (Postfach, Login, Portal etc.) möglich ist
+	- Überwiegend reicht 1 wichtiger Anwendungsfall, um sich ein Nutzerkonto anzulegen
+
+### Studie 2
+Der [Ergebnisbericht: Interviewkonsolidierung Studie 2 als PDF](https://github.com/digitalservicebund/useid-documentation/files/13266603/Ergebnisbericht_Konsolidierung.Studie.2_Projektphase.Research_2021_Dezember.pptx.pdf). Unsere Haupterkenntnisse:
+
+- Prototypen als relevant bewertet: „Digitale Ummeldung“ auf dem Smartphone, sowie „Beantragen des Führungszeugnis“ mit Gerätewechsel – relevant ist dafür die Situation in der sich die Teilnehmenden befinden
+	- Leichte Präferenz zu Prototypen „Ummeldung“ – er wird als weniger komplex wahrgenommen, da kein Gerätewechsel stattfindet
+ - NutzerkontoBund als einheitlicher Login verstanden, der sowohl in der App als auch am Desktop genutzt werden kann
+ - Teilnehmende nutzen für Verwaltungsleistungen großteils den Computer, ein Wechsel aufs Smartphone ist für alle vorstellbar, aber Dokumente sollen weiterhin auf dem Computer speicherbar sein
+ - Prozess einer digitalen Verwaltungsleistung muss nicht komplett auf einem Touchpoint ablaufen, der Wechsel zwischen Browser und App oder dem Gerät ist verstädnlich, solange die einzelnen Touchpoints ineinander greifen und Nutzende eindeutig geleitet werden
+
+## 10. Fünfzehn allgemeine Handlungsempfehlungen für eine erhöhte Verbreitung der Online-Ausweisfunktion basierend auf qualitativer Forschung aus 2021
 Die Handlungsempfehlungen basieren auf qualitativer Forschung Expert:innen- und Nutzer:inneninterviews, Usability Tests, Resonanztests, Expertenanalysen des Teams sowie der im September 2021 durchgeführten quantitativen Studie.
 
 ### 1. eID als starke Marke bzw. Submarke
@@ -441,7 +471,7 @@ Vertesten von verschiedenen Ideen zur Senkung der Hürde, wie Gebühren ermäßi
 
 **Adressat:innen der Empfehlung**: BMI, Länder, Kommunen
 
-## 10. Nutzungsreise der Bürger:innen und Diensteanbieter
+## 11. Nutzungsreise der Bürger:innen und Diensteanbieter
 ![Nutzungsreise_eID](https://github.com/digitalservicebund/useid-documentation/assets/4391042/bb76e75f-8e39-4c07-9dc7-8870a013c6e2)
 
 Die aus den qualitativen Interviews mit Nutzer:innen, Expert:innen und Mitarbeitenden in Verwaltung und Bürgerbüros entstandene Nutzungsreisen zeigen, dass die Akzeptanzprobleme der eID schon beim Erhalt des Personalausweises einsetzen. Die [Nutzungsreise aus Sicht der Bürger:innen als PDF](https://github.com/digitalservicebund/useid-documentation/files/13266457/Nutzungsreise_eID_BurgerInnen.pdf) und die [Nutzungsreise aus Sicht der Diensteanbieter als PDF](https://github.com/digitalservicebund/useid-documentation/files/13266458/Nutzungsreise_eID_Diensteanbieter.pdf). Unsere Haupterkenntnisse:
@@ -455,7 +485,7 @@ Die aus den qualitativen Interviews mit Nutzer:innen, Expert:innen und Mitarbeit
 
 Weitere Informationen in unserem Blogpost: [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten).
 
-## 11. Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID
+## 12. Mögliche Ansatzpunkte zur Anpassung von technischen eID-Richtlinien und der Personalausweisverordnung anhand von Beobachtungspunkten der User-Journey mit der eID
 ![Nutzungsreise_eID](https://github.com/digitalservicebund/useid-documentation/assets/4391042/8f97f346-5fe7-4c42-8340-ecaf7c7d7aee)
 
 Dies ist ein Arbeitsstand aus der Pilotphase der BundesIdent App. Die übergreifende Zielsetzung der Ideen ist, das Nutzungserlebnis mit der eID wesentlich zu verbessern. Dazu schlagen wir vor, bestehende Entscheidungen zu hinterfragen und offen über mögliche
