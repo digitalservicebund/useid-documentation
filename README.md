@@ -7,7 +7,7 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 5. [Exploration eines Gerätewechsels mit WebAuthn](#5-exploration-gerätwechsel-mit-webauthn)
 6. [Entwurf eines Einrichtungsassistenten für die AusweisApp2](#6-entwurf-eines-einrichtungsassistenten-für-die-ausweisapp2)
 7. [Zusammenfassung der Ergebnisse aus der Recherchephase](#7-zusammenfassung-der-ergebnisse-aus-der-recherchephase)
-8. Quantitative Studie zur eID
+8. [Quantitative Studie zur eID](#8-quantitative-studie-zur-eid)
 9. [Ergebnisbericht: Usability-Test eID & AusweisApp2](#9-ergebnisbericht-usability-test-eid--ausweisapp2)
 10. [Ergebnisbericht: Nutzung der eID durch Diensteanbieter](#10-ergebnisbericht-nutzung-der-eid-durch-diensteanbieter)
 11. [Ergebnisbericht: Interviewkonsolidierung](#11-ergebnisbericht-interviewkonsolidierung)
@@ -241,13 +241,50 @@ Der [Ergebnisbericht Usability‑Test eID & AusweisApp2 als PDF](https://github.
 - Insgesamt gibt es innerhalb der AusweisApp2 keine großen Usability-Probleme. Es sind die Erwartungen der Nutzer:innen und der unhandliche Kopplungsprozess, sowie der Wechsel zwischen Diensteanbieter und AusweisApp2, die die Nutzung verkompliziert.
 
 ## 10. Ergebnisbericht: Nutzung der eID durch Diensteanbieter
-Der [Ergebnisbericht: Nutzung der eID durch Diensteanbieter als PDF](https://github.com/digitalservicebund/useid-documentation/files/13266394/Ergebnisbericht_Nutzung.der.eID.durch.Diensteanbieter_Projektphase.Research_2022_Januar.pdf). Ende 2021 haben wir 25 qualitative Interviews á 60 Minuten geführt und den Markt analysiert.
+Der [Ergebnisbericht: Nutzung der eID durch Diensteanbieter als PDF](https://github.com/digitalservicebund/useid-documentation/files/13266394/Ergebnisbericht_Nutzung.der.eID.durch.Diensteanbieter_Projektphase.Research_2022_Januar.pdf).
 
-### Unsere Leitfrage für die Recherche
-Die Frage ist nicht nur, welche Hürden die eID-Einführung an sich hat, sondern warum sich die eID als Lösung aktuell nur schwer gegen die anderen etablierten Identifizierungsoptionen durchsetzen kann.
+Von Oktober 2021 bis Januar 2022 haben wir 25 qualitative Interviews und durch zusätzliche Internetrecherche unsere Leitfrage untersucht: Warum wird die eID im Privatsektor bisher so wenig als Identifizierungslösung angeboten und wieso kann sich die eID aktuell nur schwer gegen die anderen etablierten Identifizierungsoptionen durchsetzen?
 
-### Unser Fazit
-Organisatorische, technische und wirtschaftliche Anforderungen stellen nicht die größte Hürde dar. Damit Diensteanbieter die eID neben anderen Optionen der Identifizierung anbieten, muss eine höhere Nutzer:innen-Basis mit eingerichteter PIN gewonnen sowie die Erfahrung der Bürger:innen mit der staatlichen digitalen Identität verbessert werden. Gleichzeitig sollten durch weiteren aktiven Austausch Erkenntnisse und Bedürfnisse der Privatwirtschaft in die Weiterentwicklung der digitalen Identität einfließen.
+### Aus diesen vier Gründen wird die eID im Privatsektor selten genutzt
+
+#### 1. Nur 14 Prozent nutzen die Online-Ausweisfunktion
+Nicht alle Menschen haben Zugang zur eID. Einen gültigen Personalausweis hatten [2020 laut Bundesdruckerei](https://www.bundesdruckerei.de/de/innovation-hub/personalausweis) zwar 60 Mio. Bürger:innen, eine aktivierte Online-Ausweisfunktion jedoch nur 30 Mio. Bürger:innen. Die Online-Ausweisfunktion wird mittlerweile seit 2017 für alle neuen Ausweise standardmäßig freigeschaltet. Viele wissen aber nichts von der Online-Ausweisfunktion, haben ihre persönliche Ausweis-PIN vergessen oder nie gesetzt, finden den PIN-Brief nicht mehr oder und wissen nicht, wie sie einen neuen beantragen können. Laut dem [eGovernment MONITOR von Initiative D21](https://initiatived21.de/publikationen/egovernment-monitor) hatten 2022 nur 14 Prozent der Befragten mit gültigem Personalausweis die Online-Ausweisfunktion genutzt. Seit Februar 2022 ist es jedoch möglich, über [www.pin-ruecksetzbrief-bestellen.de](http://www.pin-ruecksetzbrief-bestellen.de) einen neuen PIN-Brief zu bestellen. Über diesen neuen Service der Bundesdruckerei wurden innerhalb der ersten sechs Monate bereits [198.000 neue PIN-Briefe und rund 120.000 Online-Ausweise aktiviert](https://www.bundesdruckerei.de/de/newsroom/pressemitteilungen/online-ausweisfunktion-sechs-monaten-rund-120000-aktivierungen-mit-neuem-webservice).
+
+#### 2. Der Markt für die eID beschränkt sich auf regulierte Branchen und eine einmalige Erstidentifizierung
+Nicht der ganze Privatsektor hat Interesse am Einsatz der eID. Das höchste Sicherheitsniveau zur Identifizierung, welches die eID garantiert, ist insbesondere in regulierten Branchen gefragt. Dies sieht man auch daran, dass sämtliche Identifizierungsdiensteanbieter folgende Branchen ansprechen: Finanzsektor, Telekommunikation, Gaming, Versicherung, eHealth und ggfs. noch Mobility & Reisen, eSports sowie teilweise eCommerce.
+
+Der hauptsächliche Anwendungsfall bezieht sich dabei auf eine einmalige Erstidentifizierung auf hohem Niveau. Eine regelmäßige Authentifizierung auf hohem Niveau scheint nicht gefragt zu sein. Regulierte Branchen haben dabei häufig Sonderanforderungen, die mit dem eID-Standard nicht abgedeckt sind. Der Finanzsektor erfordert aus dem Identifizierungsprozess zusätzlich eine digitale Fotokopie des Ausweises und der Gesundheitssektor wünscht sich eine Kombination mit der Krankenversichertennummer.
+
+#### 3. Priorität: Eine Geringe Abbruchquote, eine große Nutzer:innengruppe und ein gutes Nutzungserlebnis
+Für private Diensteanbieter sind bei der Auswahl der anzubietenden Identifizierungslösung folgende Kriterien wichtig:
+Wie groß ist die potentiell erreichbare Nutzer:innengruppe je Identifizierungslösung?
+Welche Identifizierungslösung kann ohne Voraussetzung und mit zahlreichen Identitätsdokumenten genutzt werden? Video-Ident kann zum Beispiel mehr als 150 internationale Reisepässe/ Ausweise identifizieren.
+Wie hoch ist die Abbruchquote in den Identifizierungslösungen (Conversion Rate)?
+Mit welcher einzigen oder bis zu zwei Identifizierungslösungen kann die gesamte Nutzer:innengruppe erreicht werden? Denn das Angebot mehrerer Optionen verwirrt Nutzer:innen und erfordert den Aufbau von Supportstrukturen.
+
+Zitat von einem Identifizierungsdienstanbieter
+_„Es kommen 100 Menschen zu unseren Kunden. Unsere Aufgabe muss es sein, aus diesen 100 Menschen 100 Kunden zu machen. Und das nicht nur für deutsche Ausweise. Deshalb ist das Potpourri an Optionen so wichtig.“_
+
+Zitat von einem Diensteanbieter
+_„In Deutschland haben wir in den letzten Wochen die Conversion Rate von 40% auf 60% erhöht, indem wir erklärt haben, was Nutzer:innen erwartet: Du musst etwas auf Video-Ident warten, bis jemand da ist. Wir wollen den Nutzer:innen nicht 7 verschiedene Verfahren bieten, das wäre fahrlässig. Wir sortieren die Methoden nach Häufigkeit der Nutzung. Idealerweise nur 1 Option.“_
+
+Die bisher kleine Nutzer:innenbasis der eID, die Erstaktivierung der eID-PIN sowie die Beschränkung auf den Personalausweis sind dabei wesentliche Entscheidungsfaktoren gegen die eID. Insbesondere der Erstaktivierungsprozess erscheint im Privatsektor zu aufwändig und riskant, um diesen in ihr Produkt einzubinden. Deswegen sind private Diensteanbieter auch weiterhin bereit, bis zu 12€ pro Video-Ident-Vorgang zu zahlen. Lieber mehr zahlen, als Kund:innen komplett zu verlieren.
+
+#### 4. Identifizierungsdiensteanbieter setzten im Vertrieb auf eID-Alternativen
+Identifizierungsdiensteanbieter bieten meist vier Optionen an: Video-Ident, Auto/ Foto-Ident, vor-Ort-Ident und eID. Mit dem bisherigen Angebot, insbesondere von Video-Ident und vor-Ort-Ident, konnte ein gut funktionierendes Geschäftsmodell aufgebaut werden. Der aktive Vertrieb der eID steht dabei im Hintergrund, sodass wenige Weiterentwicklungs- und Marketingressourcen investiert werden.
+
+Zitat von einem Digitalisierungsbeauftragten
+_„Die Verbreitung hat noch nicht das Ausmaß erreicht, das man bereitstellen müsste, um es als zusätzliches Verfahren anzubieten. Soweit ich weiß braucht man auch ein separates Lesegerät.“_
+
+Viele der Identifizierungsdiensteanbieter bieten inzwischen die eID über ihre Plattformen an. Wir sind in unserer Recherche aber oft auf veraltete oder Fehlinformationen gestoßen. PostIdent und IDnow konnten uns z.B. in einem ersten Vertriebsgespräch nichts zur Erstaktivierung der eID sagen, die tatsächlich mit beiden möglich ist. Das führt dazu, dass auch Diensteanbieter oft veraltete Informationen weiterverbreiten, wie z.B. die Notwendigkeit eines Kartenlesegerätes zur Nutzung der eID.
+
+Zitat von Christian Kahlo bei der [öffentlichen Anhörung zu Digitale Identitäten beim Digitalausschuss am 04. Juli 2022](https://www.bundestag.de/resource/blob/901722/7b3b2d8edb2a64805bc1d96d71ecd42a/Kahlo-data.pdf)
+_„Durch die bisher fehlende Umsetzung des Projekts eID jenseits des technischen Rahmens sind im Markt diverse Anbieter entstanden, die digitale Identifizierungslösungen anbieten, weil sich die eID bisher nicht ausreichend durchgesetzt hat. Diese Anbieter haben ein großes Interesse daran, dass sich das technische Potential der eID nicht realisiert, weil es ihr Geschäftsmodell, nämlich den Betrieb einer Brückentechnologie, gefährdet.“_
+
+#### Der größte Hebel liegt in der Verwaltung, um das Henne-Ei-Problem zu durchbrechen
+Das Henne-Ei-Problem ist ein Kreislauf, der an einem Punkt durchbrochen werden muss. Eine eID-Erstaktivierung im Kontext der Verwaltung könnte die Nutzer:innenbasis vergrößern und damit für den Privatsektor interessanter machen. In der Verwaltung haben Bürger:innen eine deutlich höhere Toleranz für komplizierte Prozesse, erwarten diese geradezu, während die Ansprüche des Nutzungserlebnisses der Privatunternehmen sehr hoch sind. Dies erschwert eine Erstaktivierung im Privatsektor.
+
+Zudem wurde bisher keine Kampagne für die eID durch den Staat forciert. In den Ämtern vor Ort werden veraltete und/ oder Fehlinformationen verbreitet. Auch hier könnte man mit einer verwaltungsinternen Kampagne und Schulung der Kommunen die eID-Verbreitung fördern, indem z.B. die PIN direkt vor Ort im Amt gesetzt und die eID sofort einsetzbar wird, und somit die eID-Nutzer:innenbasis erhöht.
 
 ## 11. Ergebnisbericht: Interviewkonsolidierung
 2021 haben wir mehrere qualitative Tiefeninterviews durchgeführt und in zwei Studien zusammengefasst. Unser Forschungsfokus lag auf folgenden drei Fragen:
