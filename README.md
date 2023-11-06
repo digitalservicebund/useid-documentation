@@ -20,6 +20,7 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 - [Der Online-Ausweisfunktion zum Durchbruch verhelfen](https://digitalservice.bund.de/blog/projekt-digitale-identitaeten)
 - [Erste Erkenntnisse aus dem Testbetrieb von BundesIdent](https://digitalservice.bund.de/blog/testbetrieb-von-bundesident)
 - [BundesIdent läuft nach Pilotphase aus, Er­kennt­nisse fließen in Gesamt­vor­haben ein](https://digitalservice.bund.de/blog/digitale-identitaeten-bundesident-laeuft-nach-pilotphase-aus-erkenntnisse-fliessen-in-gesamtvorhaben-ein)
+- [Handlungs­empfeh­lungen aus unserem Projekt BundesIdent](https://digitalservice.bund.de/blog/digitale-identitaeten-handlungsempfehlungen-aus-unserem-projekt-bundesident)
 
 ### Kontakt
 useid@digitalservice.bund.de
