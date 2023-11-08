@@ -39,8 +39,9 @@ Mit der BundesIdent App und einem digital fähigen Ausweisdokument können sich 
 - [Design der BundesIdent App für iOS in Figma](https://www.figma.com/file/mHFbvYT7vdX0v0FcLxnIbw/BundesIdent-iOS?type=design&node-id=95%3A26004&mode=design&t=GP4aS6eWJ70qmvb8-1)
 - [User Flow als PDF](https://github.com/digitalservicebund/useid-documentation/files/12646866/UserFlow_BundesIdent.pdf)
 - [Beispielandwendung](https://github.com/digitalservicebund/useid-eservice-example) und das zugehörige [SDK](https://github.com/digitalservicebund/useid-eservice-sdk)
-- [Widget](#widget)
+- [Namensgebung der eID-App](#)
 - [Illustrationen](#illustrationen)
+- [Widget](#widget)
 
 ### Illustrationen
 ![Illustrationen_BundesIdent](https://github.com/digitalservicebund/useid-documentation/assets/4391042/f5d70381-fd99-45ad-afd5-84d0dfe5a681)
@@ -56,6 +57,33 @@ Die Einbindung von BundesIdent in den Online-Dienst „[Grundsteuererklärung f�
 ![Widget_2 0](https://github.com/digitalservicebund/useid-documentation/assets/4391042/b723e06e-4d72-4313-a6f1-68baba8dc134)
 
 Das Widget beim Online-Dienst ist ein Berührungspunkt mit viel Potential, vor allem bei der Erstnutzung. In einem Prototypen haben wir erarbeitet, wie eine Ausbaustufe des Widgets funktionieren könnte: [www.widget-iteration.webflow.io](https://widget-iteration.webflow.io/) Das Widget wird dabei auf einen Button reduziert: »Mit Ausweis identifizieren«. Wenn eine eID-App bereits installiert ist, öffnet sich nach einem Tap die App. Wir können hier nämlich davon ausgehen, dass sich die Nutzer:innen bereits erfolgreich mit der eID identifiziert haben. Sollte noch keine eID-App installiert sein, werden die Nutzer:innen mit einfachen Fragen im Widget durch die Erstnutzung geleitet. Dabei werden Schritt für Schritt die Anforderungen abgefragt. Dazu gehören unter anderem ein kompatibles Smartphone, ein kompatibler und gültiger Ausweis sowie die PIN oder der PIN-Brief. Wird eine dieser Anforderungen nicht erfüllt, kann frühzeitig im Widget eine Lösung aufgezeigt werden und somit die Abbruchquote verringert werden. Dieser Prototyp wurde noch nicht mit Nutzer:innen getestet.
+
+### Namensgebung der eID-App
+Die detaillierte [Zusammenfassung zur Namensgebung als PDF](https://github.com/digitalservicebund/useid-documentation/files/13294666/Namensgebung_BundesIdent_2022.pdf).
+
+Um einen passenenden Namen für die eID-App zu finden, haben wir Pop-Up Tests, User-Interviews, eine quantitative Umfrage durchgeführt und uns Input von einem Bundesland und einer Kommune eingeholt.
+
+#### Was zählt für Bürger: innen
+
+- verständlich
+- vertrauenswürdig
+- nicht technisch
+
+#### Erste Eindrücke der Länder & Kommunen
+
+- nicht technisch
+- einfach & verständlich
+- Bundesbezug ist kein Problem
+- Bundesbezug ist vertrauenserweckend
+
+#### Was zählt für uns
+
+- verständlich
+- beschreibt die Aufgabe, nicht die Technologie
+- nachhaltig
+
+#### Unsere Entscheidung: BundesIdent
+„Bundes“ beschreibt, woher es kommt: entwickelt vom Bund. „Ident“ beschreibt, was es macht: identifizieren.
 
 ## 2. Anwendungsfall: Grundsteuererklärung für Privateigentum
 ![Anwendungsfall_GrundsteuererklärungFürPrivateigentum](https://github.com/digitalservicebund/useid-documentation/assets/4391042/ee6d3a43-d1b1-47d2-9711-e00e86ae2c28)
