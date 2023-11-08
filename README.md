@@ -6,7 +6,7 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 4. [Handlungsempfehlungen für den Abbau von Nutzungshürden](#4-handlungsempfehlungen-für-den-abbau-von-nutzungshürden)
 5. [Exploration eines Gerätewechsels mit WebAuthn](#5-exploration-gerätwechsel-mit-webauthn)
 6. [Entwurf eines Einrichtungsassistenten für die AusweisApp2](#6-entwurf-eines-einrichtungsassistenten-für-die-ausweisapp2)
-7. [Was hindert den Online-Ausweis an dem Sprung in die breite Masse?](#)
+7. [Was hindert den Online-Ausweis an dem Sprung in die breite Masse?](#7-was-hindert-den-online-ausweis-an-dem-sprung-in-die-breite-masse)
 8. [Quantitative Studie zur eID](#8-quantitative-studie-zur-eid)
 9. [Ergebnisbericht: Usability-Test eID & AusweisApp2](#9-ergebnisbericht-usability-test-eid--ausweisapp2)
 10. [Ergebnisbericht: Nutzung der eID durch Diensteanbieter](#10-ergebnisbericht-nutzung-der-eid-durch-diensteanbieter)
