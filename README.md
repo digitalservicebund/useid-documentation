@@ -6,7 +6,7 @@ Im Auftrag des Bundesministerium für Inneres und Heimat (BMI), haben wir uns vo
 4. [Handlungsempfehlungen für den Abbau von Nutzungshürden](#4-handlungsempfehlungen-für-den-abbau-von-nutzungshürden)
 5. [Exploration eines Gerätewechsels mit WebAuthn](#5-exploration-gerätwechsel-mit-webauthn)
 6. [Entwurf eines Einrichtungsassistenten für die AusweisApp2](#6-entwurf-eines-einrichtungsassistenten-für-die-ausweisapp2)
-7. [Zusammenfassung der Ergebnisse aus der Recherchephase](#7-zusammenfassung-der-ergebnisse-aus-der-recherchephase)
+7. [Was hindert den Online-Ausweis an dem Sprung in die breite Masse?](#)
 8. [Quantitative Studie zur eID](#8-quantitative-studie-zur-eid)
 9. [Ergebnisbericht: Usability-Test eID & AusweisApp2](#9-ergebnisbericht-usability-test-eid--ausweisapp2)
 10. [Ergebnisbericht: Nutzung der eID durch Diensteanbieter](#10-ergebnisbericht-nutzung-der-eid-durch-diensteanbieter)
@@ -195,12 +195,63 @@ Weitere technische Informationen unter: https://github.com/digitalservicebund/us
 In der ersten Projektphase haben wir einen Einrichtungsassistenten für die AusweisApp2 auf Desktop und Mobile entworfen: [Design in Figma](https://www.figma.com/file/f6DoOUO7ggCYosH8jYhqD4/Onboarding-proposal-for-the-AusweisApp2?type=design&node-id=1608%3A949&mode=design&t=YCgYMWYrJfTqF8sB-1). Unsere Hypothese: Wie in einem Gespräch hilft der Einrichtungsassistent,
 die eID mit der AusweisApp2 einzurichten. Modernes Auftreten und freundliche, wenig technische Texte vermitteln Spaß beim Kennenlernen der neuen Technologie. Ein strukturierter Dialog unterstützt Bürger:innen beim Einrichten der 6-stelligen Wunsch-PIN und lässt sie den nicht-trivialen Prozess der Identifizierung mit eID in der AusweisApp2 kennenlernen.
 
-## 7. Zusammenfassung der Ergebnisse aus der Recherchephase
-Die detaillierte [Zusammenfassung der Ergebnisse aus der Recherchephase als PDF](https://github.com/digitalservicebund/useid-documentation/files/13267227/Zusammenfassung.der.Ergebnisse.aus.der.Recherchephase_Projektphase.Research_2022_Januar.pdf).
+## 7. Was hindert den Online-Ausweis an dem Sprung in die breite Masse?
 
-Unsere zentrale Leitfrage während der Recherchephase: Wie können wir die Online-Ausweisfunktion in den Alltag der Bürgerinnen und Bürger integrieren?
+Um diese Frage zu beantworten, haben wir eine breite Researchphase angelegt, in der wir durch qualitative Forschung ein ganzheitliches Verständnis für das Nutzendenerlebnis in Bezug auf die Online- Ausweisfunktion erarbeitet haben. Wichtig war uns in diesem Zusammenhang die Nutzungsreise von dem Moment an zu erforschen, in dem Bürger:innen einen neuen Personalausweis benötigen, bis zu dem Moment, in dem sie diesen wiederholt online nutzen.
 
-### Unsere Haupterkenntnisse
+Im Juni 2020 starteten wir das Projekt „Digitale Identitäten“ mit der Frage: „Wie können wir die Online-Ausweisfunktion in den Alltag der Bürgerinnen und Bürger integrieren?“. In 20 Tiefeninterviews und insgesamt 30 Std. Interviewmaterial haben wir mit Bürger:innen über ihre Erfahrungen im Zusammenhang mit dem Online‑Ausweis gesprochen. Dabei zeichnete sich deutlich ab, dass momentan der Online‑Ausweis ausschließlich für die Gruppe pragmatischen Profis nutzbar ist. Der Online-Ausweis ist aktuell im „frühen Markt“ gefangen; technikaffine Nutzer:innen, die motiviert sind, Neues auszuprobieren, nutzen sie gerne. 
+
+Erfahrung und Analyse einer Vielzahl von Technologieprodukten zeigt, dass Produkte und Dienste sich nicht linear aus diesem Segment weiterverbreiten, wenn sie nicht den Sprung zur Komplettlösung schaffen, da Nutzer:innen im Mainstream Markt andere Bedürfnisse haben. Dieses Phänomen sehen wir auch beim Online‑Ausweis. In seiner 10-jährigen Geschichte hat er den Sprung über die sogenannte Kluft nicht geschafft. Dies hat zum einen historische Gründe, wie zum Beispiel, dass lange ein Kartenlesegerät notwendig war, um die Online‑Ausweisfunktion zu nutzen. Doch auch nach der technologischen Weiterentwicklung und der Einführung von NFC‑Antennen in Smartphones stehen dem Sprung über die Kluft noch einige Hürden im Weg.
+
+### 10 Hürden in der Nutzung der Online‐Ausweisfunktion für Bürger:innen
+
+#### 1. In den Köpfen hat sich festgesetzt: der digitale Behördenauftritt ist schmerzhaft
+
+Mental bereiten sich Bürger:innen schon darauf vor, dass die Erledigung von Behördenangelegenheiten online, sie Nerven kosten wird. Die Erwartung ist also „das wird jetzt sehr anstrengend“. Resultierend werden Dinge aufgeschoben oder direkt der Gang zum Amt bevorzugt. Wenn man dort einen Termin bekommt.
+
+#### 2. Bürger:innen blicken in den (Online)-Angeboten der Verwaltung nicht durch
+
+Hat sich ein/e Bürger:in dazu entschieden, das Online-Angebot der Verwaltung zu nutzen, startet erstmal die große Suche, wo diese erledigt werden kann. Oftmals startet diese bei der Website des kommunalen Bürgeramts. Von dort müssen sich die Nutzenden durchklicken, teilweise durch mehrere Websites. Das ist frustrierend. Oftmals sind die Seiten so aufgebaut, dass die Textmasse Nutzende überfordert und das Bedürfnis schlussendlich nicht erfüllt wird. Die Verknüpfung von Information zur Dienstleistung und der tatsächlichen Interaktion befindet sich vorwiegend nicht an einem Ort.
+
+#### 3. Die Erfahrung im Bürgerbüro blockiert die Auseinandersetzung mit dem Online‐Ausweis
+
+Die Beantragung des neuen Ausweises erfolgt immer im Bürgeramt. Ein Ort an dem sich viele Bürger:innen in einem gestressten, unbequemen Lage fühlen. Die Erfahrungen von Bürgeramtsbesuchen beschrieben Befragte oft als ungemütlich, nervig, eher negativ. Genau das ist der Ort, an dem die Nutzenden erstmals mit der Online-Ausweisfunktion in Kontakt kommen. Wer einen neuen Ausweis beantragt, wird auch über die Online-Ausweisfunktion informiert. In unseren Gesprächen wurde uns häufig davon berichtet, dass diese Aufklärung oft mit einer negativen Konnotation stattgefunden hat. Die Technologie und der Mehrwert selbst haben die Mitarbeitenden oft selbst nicht verstanden und sind nicht darüber aufgeklärt, wie das überhaupt funktioniert. Begeisterung und Enthusiasmus können nicht überspringen, sondern ein komisches Gefühl bleibt und meist bleibt die Information zum Online-Ausweis nicht im Gedächtnis.
+
+#### 4. Der PIN‐Brief verwirrt die Nutzer:innen — sie können seine Relevanz nicht einschätzen
+
+Den PIN-Brief erhalten Bürger:innen, bevor sie den neuen Ausweis beim Bürgeramt abholen. In diesem Augenblick können sie mit den Informationen in dem Brief nichts weiter anfangen. Schließlich haben Sie den Ausweis noch nicht und können die Online-Ausweisfunktion nicht nutzen. Der Zusammenhang zwischen Transport-PIN und Online-Ausweis wird nicht verstanden. Der Brief wird also abgeheftet und gerät in Vergessenheit.
+
+#### 5. Es vergeht zu viel Zeit (Monate und Jahre) zwischen Erhalt des Personalausweises mit OAF und der Nutzung: die eID gerät in Vergessenheit
+
+Für die Online-Ausweisfunktion gibt es derzeit nur wenige Anwendungsfälle. Bis Bürger:innen den Online-Ausweis tatsächlich nutzen, vergeht oft viel Zeit. In dieser haben Sie vergessen, was die Online-Ausweisfunktion ist. Oder dass Sie einen Brief bekommen haben, der in Zusammenhang mit dem Online-Ausweis stand. Die wenigsten haben den Online-Ausweis bereits eingerichtet. Sie wählen also, wenn möglich, ein anderes Identifikationsmittel.
+
+#### 6. Diensteanbieter beeinflussen maßgeblich die Wahrnehmung des Online‐Ausweises
+
+Bei den existierenden Anwendungsfällen zeigt sich eine große Bandbreite an Darstellungen, was die Online-Ausweisfunktions ist und wie sie genutzt wird. Der Wiedererkennungswert der Anwendungsmöglichkeiten für Bürger:innen ist nicht gegeben. Auch sind die Informationen teilweise fehlerhaft und veraltet.
+
+#### 7. Die initiale Nutzung des Online-Ausweises ist komplex und es fehlt an Übung
+
+Bevor die Identifizierung mit dem Online-Ausweis starten kann, muss dieser eingerichtet werden. Das heißt, die Transport-PIN muss in eine persönliche PIN umgewandelt werden. Dafür benötigen die Bürger:innen den PIN-Brief, den sie nach Beantragung des neuen Ausweises zugeschickt bekommen haben. Dies bildet die erste Hürde der Einrichtung, da der Brief oft irgendwo abgeheftet oder nicht mehr vorhanden ist. 
+Ein Großteil der Nutzenden nutzt digitale Verwaltungsleistungen auf dem Desktop, diese müssen nun verstehen, dass sie eine Desktop-App herunterladen müssen. Für viele ist der Begriff App unausweichlich mit dem Smartphone verbunden. Haben Sie es dennoch geschafft, folgt die Kopplung der Desktop App mit dem Smartphone, denn nur wenige besitzen ein Kartenlesegerät, dass direkt mit dem Computer verbunden wird. Für die Kopplung müssen beide Geräte im selben WLAN sein, das Gerät ausgewählt werden und eine Kopplungsnummer eingeben werden. Das bildet bereits die 3. Hürde im Einrichtungsprozess. Ist auch diese überwunden, muss der Personalausweis mit der NFC-Funktion des Smartphones ausgelesen werden. Diese Technologie ist weitgehend unbekannt und viele brauchen mehrere Versuche, um den Ausweis richtig an das Gerät zu halten. Erst nach diesem Schritt kann die persönliche PIN gewählt und der Ausweis genutzt werden. Dieser Prozess ist bereits für technikaffine Personen nicht trivial und benötigt meist mehrere Versuche.
+
+#### 8. Die mangelnde Usability der AA2 blockiert die Nutzung der eID
+
+Nutzende der AA2 scheitern oftmals am Kopplungsprozess und das Auslesen des Ausweises mit der NFC-Technologie. Das Zusammenspiel zwei verschiedener Geräte ist ungewohnt und überfordernd. Hilfetexte und das benutzte Vokabular oft nicht ausreichend. Auch die Fehlermeldungen helfen den Nutzenden oft nicht weiter.
+
+#### 9. Nutzer:innen:innen sind verunsichert, welche technischen Voraussetzungen benötigt werden
+
+NFC, Kopplung, Desktop-App oder Fernzugriff sind Worte, die für Nutzende unbekannt sind. Sie verstehen nicht, was damit gemeint ist und welche Voraussetzungen ihre Geräte erfüllen müssen. Das führt dazu, dass häufig eine andere Identifizierungsmethode gewählt wird.
+
+#### 10. Nutzer:innen bevorzugen ein gewohntes und einfaches Identifikationsverfahren, dann erst ein sicheres
+
+Die Privatwirtschaft legt einen starken Fokus aus Nutzendenfreundlichkeit. Bürger:innen sind daran gewöhnt, dass Dinge einfach sind oder sie gut durch komplexere Prozesse geführt werden. Der Gedanke an Sicherheit kommt meist erst nachgelagert. Wenn ein Online-Dienst aus Sicherheitsgründen komplex und schwer verständlich ist, wird er weniger genutzt, als ein Dienst, der ggf. nicht so sicher ist, aber sich das Bedürfnis der Nutzenden schnell erfüllen lässt. Sicherheit ist ein nicht anfassbares Gut und kann daher von Nutzenden nur sekundär wahrgenommen werden.
+
+_Wenn die Hürden abgebaut werden, ist die Erfolgschance der Online‑Ausweisfunktion für das digitale Identifizieren sehr hoch, denn gerade durch die Corona-Pandemie ist die Offenheit mehr online zu erledigen, enorm gestiegen._
+
+### Zusammenfassung der Ergebnisse aus der Recherchephase
+Die [Zusammenfassung der Ergebnisse aus der Recherchephase als PDF](https://github.com/digitalservicebund/useid-documentation/files/13267227/Zusammenfassung.der.Ergebnisse.aus.der.Recherchephase_Projektphase.Research_2022_Januar.pdf).
+
+#### Unsere Haupterkenntnisse
 
 - Qualitative Forschung zeigt, dass die Online-Ausweisfunktion aktuell nur für technikaffine Nutzer:innen nutzbar ist. Ohne grundlegende Verbesserung des Nutzungserlebnisses (UX) von Beantragung bis zu Anwendungsfällen ist es unwahrscheinlich, dass die Verbreitung signifikant steigen wird.
 - Lösungskonzepte rund um verbesserte Erstnutzung und effektive Kommunikation im konkreten Anwendungsfall stoßen auf positive Resonanz und versprechen breitere Annahme.
