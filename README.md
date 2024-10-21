@@ -54,16 +54,21 @@ Um die App aufzulockern, haben wir eine Reihe an Illustrationen in Auftrag gegeb
 Die Einbindung von BundesIdent in den Online-Dienst „[Grundsteuererklärung für Privateigentum](https://www.grundsteuererklaerung-fuer-privateigentum.de/)“ erfolgte über ein ebenfalls von uns entwickeltes Widget. Dieses wurde so ausgestaltet, dass es die einfache Integration in vielfältige Online-Services ermöglicht und perspektivisch ein einheitliches Nutzungserlebnis bei der digitalen Identifikation bietet.
 
 ### Erste Designidee für das Widget 2.0 | Nicht mit Nutzer:innen getestet
-![Widget_2 0](https://github.com/digitalservicebund/useid-documentation/assets/4391042/b723e06e-4d72-4313-a6f1-68baba8dc134)
+![Widget_2 0](https://github.com/user-attachments/assets/d8ab7165-e68e-4a1f-8379-01355026d695)
 
 Das Widget beim Online-Dienst ist ein Berührungspunkt mit viel Potential, vor allem bei der Erstnutzung. In einem Prototypen haben wir erarbeitet, wie eine Ausbaustufe des Widgets funktionieren könnte: [www.widget-iteration.webflow.io](https://widget-iteration.webflow.io/) Das Widget wird dabei auf einen Button reduziert: »Mit Ausweis identifizieren«. Wenn eine eID-App bereits installiert ist, öffnet sich nach einem Tap die App. Wir können hier nämlich davon ausgehen, dass sich die Nutzer:innen bereits erfolgreich mit der eID identifiziert haben. Sollte noch keine eID-App installiert sein, werden die Nutzer:innen mit einfachen Fragen im Widget durch die Erstnutzung geleitet. Dabei werden Schritt für Schritt die Anforderungen abgefragt. Dazu gehören unter anderem ein kompatibles Smartphone, ein kompatibler und gültiger Ausweis sowie die PIN oder der PIN-Brief. Wird eine dieser Anforderungen nicht erfüllt, kann frühzeitig im Widget eine Lösung aufgezeigt werden und somit die Abbruchquote verringert werden. Dieser Prototyp wurde noch nicht mit Nutzer:innen getestet.
 
 ### Namensgebung der eID-App
+![BundesIdent_Name](https://github.com/user-attachments/assets/def47a7c-f1f7-4e29-a81d-28e26b03ad6c)
+
 Die detaillierte [Zusammenfassung zur Namensgebung als PDF](https://github.com/digitalservicebund/useid-documentation/files/13294666/Namensgebung_BundesIdent_2022.pdf).
 
 Um einen passenenden Namen für die eID-App zu finden, haben wir Pop-Up Tests, User-Interviews, eine quantitative Umfrage durchgeführt und uns Input von einem Bundesland und einer Kommune eingeholt.
 
-#### Was zählt für Bürger: innen
+#### Unsere Entscheidung: BundesIdent
+„Bundes“ beschreibt, woher es kommt: entwickelt vom Bund. „Ident“ beschreibt, was es macht: identifizieren.
+
+#### Was zählt für Bürger:innen
 
 - verständlich
 - vertrauenswürdig
@@ -81,9 +86,6 @@ Um einen passenenden Namen für die eID-App zu finden, haben wir Pop-Up Tests, U
 - verständlich
 - beschreibt die Aufgabe, nicht die Technologie
 - nachhaltig
-
-#### Unsere Entscheidung: BundesIdent
-„Bundes“ beschreibt, woher es kommt: entwickelt vom Bund. „Ident“ beschreibt, was es macht: identifizieren.
 
 ## 2. Anwendungsfall: Grundsteuererklärung für Privateigentum
 ![Anwendungsfall_GrundsteuererklärungFürPrivateigentum](https://github.com/digitalservicebund/useid-documentation/assets/4391042/ee6d3a43-d1b1-47d2-9711-e00e86ae2c28)
